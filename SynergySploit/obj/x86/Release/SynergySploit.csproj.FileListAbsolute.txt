@@ -1,0 +1,11 @@
+C:\Users\riley\Desktop\s-x\9-20-20\SynergySploit.exe.config
+C:\Users\riley\Desktop\s-x\9-20-20\SynergySploit.exe
+C:\Users\riley\Desktop\s-x\9-20-20\SynergySploit.pdb
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.csprojAssemblyReference.cache
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.UI.resources
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.Properties.Resources.resources
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.csproj.GenerateResource.cache
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.csproj.CopyComplete
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.exe
+C:\Users\riley\source\repos\SynergySploit\SynergySploit\obj\x86\Release\SynergySploit.pdb
